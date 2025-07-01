@@ -8,6 +8,6 @@ I enjoy figuring out how things work under the hood — whether it's scraping th
 - 🎯 Comfortable with: Selenium, APIs, JSON, data cleaning, logic building  
 - 📚 Learning more about: algorithms, problem-solving, and how to write better code  
 - 🎨 Outside of code: I’ve led creative teams, organized events, and enjoy photography  
-- 📫 Reach me: noormutant@gmail.com
+- 📫 Reach me: noorszps@gmail.com
 
 This profile is a quiet corner of the internet where I try to learn, build, and improve — one project at a time.
