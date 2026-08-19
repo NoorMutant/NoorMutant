@@ -1,13 +1,25 @@
-### 👋 Hi, I'm Noor Muhammad (@NoorMutant)
+### Noor Muhammad
 
-I'm a Computer Science graduate from Pakistan with a practical mindset and a growing interest in automation, AI, and clean code.  
-I enjoy figuring out how things work under the hood — whether it's scraping thousands of listings with Python, understanding DSA with visual tools, or deploying a simple Flask blog just to test an idea.
+Associate Frontend Developer at Mubasher Information Group, building market data platforms and stock exchange infrastructure for the MENA region. Angular and TypeScript on the front, Java and Spring Boot behind it.
 
-- 🎓 CS graduate | CS50x certified | Currently completing CS50 AI  
-- 💻 Interests: Python, Web Scraping, Automation, AI fundamentals  
-- 🎯 Comfortable with: Selenium, APIs, JSON, data cleaning, logic building  
-- 📚 Learning more about: algorithms, problem-solving, and how to write better code  
-- 🎨 Outside of code: I’ve led creative teams, organized events, and enjoy photography  
-- 📫 Reach me: noorszps@gmail.com
+**What I work on**
 
-This profile is a quiet corner of the internet where I try to learn, build, and improve — one project at a time.
+Live market data platforms, embeddable investor relations widgets that deliver real time data into the websites of financial institutions, and the website of a national stock exchange. Regulated data, real money, real consequences when it is wrong.
+
+**What I care about**
+
+Fixing causes instead of symptoms. My favourite piece of work is not a feature, it is a pair of concurrency bugs on a side project: transactions deadlocking against each other while the connection pool starved. The tempting fixes were a bigger pool, longer timeouts and a retry loop. Instead every transaction now acquires pessimistic row locks in one consistent order, which makes a lock cycle impossible, and requests are batched behind an RxJS debounce so the flood never reaches the pool. One invariant, one source fix, no patches.
+
+**Projects**
+
+[Rhova](https://rhova.work) is a productivity workspace I built end to end with Angular Signals, Spring Boot and PostgreSQL, including bi directional Google Calendar OAuth sync.
+
+I also built an AI engine over the Pakistan Stock Exchange: scrapers, financial document chunking into pgvector for semantic search, and a RAG layer on Spring Boot. I rebuilt the core after realising the model could justify any outcome after the fact, so it now commits to forecasts with confidence scores and invalidation triggers, and deterministic Java grades every prediction.
+
+**Stack**
+
+TypeScript, Angular, RxJS, Ember, Java, Spring Boot, PostgreSQL, Python
+
+**Elsewhere**
+
+[LinkedIn](https://www.linkedin.com/in/noor-muhammad-b58443247/) | noorszps@gmail.com
