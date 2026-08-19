@@ -3,6 +3,7 @@
 Associate Frontend Developer at Mubasher Information Group, building market data platforms and stock exchange infrastructure for the MENA region. Angular and TypeScript on the front, Java and Spring Boot behind it.
 
 **What I work on**
+echo '![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![Ember](https://img.shields.io/badge/Ember.js-E04E39?style=flat&logo=emberdotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)'
 
 Live market data platforms, embeddable investor relations widgets that deliver real time data into the websites of financial institutions, and the website of a national stock exchange. Regulated data, real money, real consequences when it is wrong.
 
